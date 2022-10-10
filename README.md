@@ -12,7 +12,7 @@
   Simple todo list using react. in this application users can add and, edit and delete their notes.
 
 ## Demo
-### live Link [React Todo]("https://new-simple-react-todo-app.netlify.app/")
+### live Link [React Todo](https://new-simple-react-todo-app.netlify.app/)
 
 <img src="https://firebasestorage.googleapis.com/v0/b/muhammed-hashim-portfolio.appspot.com/o/projects%2Ftodo.png?alt=media&token=08c6265a-5db2-4269-afa7-ea3762cef934" alt="todo">
 
